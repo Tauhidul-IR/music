@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+body   {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #0a2345;
+}
+
+.navbar-toggler span{
+    color: #2a5ea4;
+
+}
+.navbar-toggler span:focus{
+    outline: 0;
+}
+.navbar a{
+    font-size: 30px;
+    color: #2e66b2;
+}
+.navbar-collapse a{
+    font-size: 15px;
+    text-transform: uppercase;
+
+}
+.navbar img{}
+h3{
+    font-size: 43px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.tamplate-section p{
+    color: #2e66b2;
+    font-size: 18px;
+}
+
+.tamplate-section{}
+.tamplate-section a{
+    margin-top: 50px;
+}
+.Coeluso{
+    color: #2e66b2;
+}
+.btn-success {
+    color: #fff;
+    background-color: #0a2345;
+    border-color: #153b6d;
+    border-radius: 25px;
+    padding: 11px 15px !important;
+}
+
+.navbar {
+    padding: 3.5rem 1rem;
+}
+
+.Coeluso-section{
+    margin: 120px 0px;
+    background-image: url(../img/music_bit.png);
+    background-repeat: no-repeat;
+    max-width: 100%;
+    background-size: contain;
+    background-position: center;
+}
+.Coeluso-section img{
+    max-width: 100%;
+    padding: 60px;
+}
+.Coeluso-section .middle{
+  padding: 20px;
+}
+.music-section{
+    background-image: url(../img/headphone.png);
+    margin: 110px 0;
+    background-repeat: no-repeat;
+    padding: 40px;
+    background-size: contain;
+}
+.music-section h3{
+        font-size: 32px;
+}
+.music-section .music{
+    
+}
+p{
+    font-size: 14px;
+    color: #66778e;
+    line-height: 2;
+}
+.music-section .Coeluso{}
+.music-section a{
+    margin-top: 30px;
+    margin-right: auto;
+}
+
+
+
+.feature-section{}
+.feature-section h3{}
+.feature-section .Coeluso{
+    text-align: center;
+}
+.feature-section .lorem{
+    padding-bottom: 40px;
+}
+.feature-section .lorem h4{
+    font-size: 24px;
+    color: #fff;
+    padding-bottom: 15px;
+}
+.feature-section .lorem p{
+
+}
+.feature-section .lorem a{
+    color: #ff3334;
+    font-size: 40px;
+    padding-bottom: 15px;
+    display: block;
+}
+.feature-section .circle{
+    position: relative;
+    padding-top: 70px;
+    z-index: 2;
+}
+.feature-section .small_circle{
+    position: absolute;
+    left: -42%;
+    bottom: -3%;
+    z-index: 1;
+}
+.feature-section .big_circle{
+    position: absolute;
+    left: -85%;
+    bottom: -9%;
+}
+.feature-section .feature{
+    margin: 70px 0px;
+}
+.power-section{
+    margin: 120px 0;
+    background-image: url(../img/background.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    padding: 100px 0;
+}
+.power-section a{
+        color: #ff3334;
+    font-size: 40px;
+    padding-bottom: 15px;
+    display: block;
+}
+.power-section h2{
+    color: #fff;
+    font-size: 36px;
+    padding: 15px 0px;
+}
+.power-section p{}
+
+.footer-section{
+    background-color: #011633;
+}
+.footer-section h2{
+    color: #fff;
+    font-size: 36px;
+    padding: 14px 0;
+    padding-top: 40px;
+}
+.footer-section img{}
+.footer-section p{
+    padding-bottom: 50px;
+}
+.footer-img img{
+    width: 100%;
+}
+.copy{
+    font-size: 14px;
+    color: #14396a;
+    text-align: end;
+}
+.footer-section span   {
+    background-color: #283b5a;
+    width: 100%;
+    height: 2px;
+    display: block;
+    margin-top: 120px;
+}
+.foot{
+    margin-top: 60px;
+}
+.footer-section .foot .navbar-nav{
+    -ms-flex-direction: row;
+    flex-direction: row;
+}
+.foot ul{}
+.foot ul li{
+    padding: 0 10px;
+}
+.foot ul li a{
+    font-size: 14px;
+    color: #14396a;
+}
+.btn-success:hover {
+    color: #24518e;
+    background-color: #ff3334;
+}
+
+
+.foot ul li a:hover{
+    color: #ff3334;
+}
+
+
+
+
+
+.face-section{
+    background-image: url(../img/face_background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    padding: 120px 0;
+}
+.face-section p{
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 22px;
+}
+.face-section .face{}
+.face-section .face img{}
+.face-section .Patryk{}
+.face-section .Patryk p{
+    font-size: 17px;
+}
+.face-section .graph {}
+.face-section .graph p{
+    color: #ffff;
+    font-size: 17px;
+}
+.face-section .dot {
+    text-align: center;
+    padding-top: 30px;
+}
+.face-section .dot img{}
